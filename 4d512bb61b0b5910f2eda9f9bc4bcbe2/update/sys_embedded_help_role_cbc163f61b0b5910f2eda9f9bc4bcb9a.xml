@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_935820_inovate.employee" name="x_935820_inovate.employee">03c163f61b0b5910f2eda9f9bc4bcb99</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-13 00:32:23</sys_created_on>
+        <sys_id>cbc163f61b0b5910f2eda9f9bc4bcb9a</sys_id>
+        <sys_name>03c163f61b0b5910f2eda9f9bc4bcb99</sys_name>
+        <sys_package display_value="革新" source="x_935820_inovate">4d512bb61b0b5910f2eda9f9bc4bcbe2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="革新">4d512bb61b0b5910f2eda9f9bc4bcbe2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cbc163f61b0b5910f2eda9f9bc4bcb9a</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

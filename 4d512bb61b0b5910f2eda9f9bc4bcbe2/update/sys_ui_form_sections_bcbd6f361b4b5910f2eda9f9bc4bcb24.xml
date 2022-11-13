@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bcbd6f361b4b5910f2eda9f9bc4bcb24" sys_domain="global" table="x_935820_inovate_inovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-13 01:24:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45bd6f361b4b5910f2eda9f9bc4bcb27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_935820_inovate_inovate" name="x_935820_inovate_inovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">bcbd6f361b4b5910f2eda9f9bc4bcb24</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_935820_inovate_inovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b4bd6f361b4b5910f2eda9f9bc4bcb23</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-13 01:24:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-13 01:24:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01bd6f361b4b5910f2eda9f9bc4bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_935820_inovate_inovate" name="x_935820_inovate_inovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">bcbd6f361b4b5910f2eda9f9bc4bcb24</sys_ui_form>
+            <sys_ui_section caption="新しいアイデア" display_value="新しいアイデア" name="x_935820_inovate_inovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">30bd6f361b4b5910f2eda9f9bc4bcb24</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-13 01:24:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_935820_inovate_inovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-13 01:24:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcbd6f361b4b5910f2eda9f9bc4bcb24</sys_id>
+            <sys_name>x_935820_inovate_inovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="革新" source="x_935820_inovate">4d512bb61b0b5910f2eda9f9bc4bcbe2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="革新">4d512bb61b0b5910f2eda9f9bc4bcbe2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bcbd6f361b4b5910f2eda9f9bc4bcb24</sys_update_name>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
